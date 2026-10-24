@@ -1,0 +1,22 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Next.js & Node
+node_modules/
+.next/
+out/
+build/
+dist/
+.DS_Store
+
+# PyTorch & Local Weights / Model Caches
+*.pt
+*.bin
+*.onnx
+.huggingface/
